@@ -10,7 +10,7 @@
   "dependencies": {
     "@giphy/react-components": "^9.3.0",
     "@mirohq/miro-api": "^2.0.0",
-    "cookie": "^0.5.0",
+    "cookie": "^0.7.0",
     "dotenv": "^16.0.3",
     "jsonwebtoken": "9.0.2",
     "mirotone": "5",
