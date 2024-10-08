@@ -13,7 +13,7 @@
     "@mirohq/websdk-types": "^2.0.0",
     "@netlify/functions": "^1.0.0",
     "@types/react-router-dom": "^5.3.3",
-    "cookie": "^0.5.0",
+    "cookie": "^0.7.0",
     "framer-motion": "^6.2.8",
     "node-fetch": "^3.2.6",
     "react": "^17.0.2",
