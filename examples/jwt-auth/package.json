@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@giphy/react-components": "^9.3.0",
+    "@giphy/react-components": "^10.0.0",
     "@mirohq/miro-api": "^2.0.0",
     "cookie": "^0.5.0",
     "dotenv": "^16.0.3",
